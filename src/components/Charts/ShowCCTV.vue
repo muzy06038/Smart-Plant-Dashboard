@@ -16,7 +16,7 @@ export default {
     components: {},
     data(){
       return {
-        path: "ws://163.180.117.40:9995"
+        path: "websocket address"
       }
     },
     mounted: function(){
